@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "APPANGULAR"
+  "defaultProject": "APPANGULAR",
+  "cli": {
+    "analytics": false
+  }
 }
